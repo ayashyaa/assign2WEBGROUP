@@ -1,4 +1,4 @@
-/* Общие стили */
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -15,7 +15,7 @@ section {
   padding: 0 1rem;
 }
 
-/* Заголовки */
+
 h2 {
   margin-bottom: 1rem;
   font-size: 2rem;
@@ -31,7 +31,7 @@ h3 {
   color: #444;
 }
 
-/* Навигация */
+
 #top {
   position: fixed;
   top: 0;
@@ -55,7 +55,7 @@ h3 {
   color: #D1495B;
 }
 
-/* Hero с фоном */
+
 #hero {
   position: relative;
   text-align: center;
@@ -92,7 +92,7 @@ h3 {
   font-size: 1.2rem;
 }
 
-/* Why Choose Us */
+
 .why-choose-us {
   width: 1200px;
   margin: 3rem auto;
@@ -148,7 +148,7 @@ h3 {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
-/* Портфолио */
+
 .portfolio {
   margin: 3rem auto;
   text-align: center;
@@ -229,7 +229,7 @@ textarea {
   box-sizing: border-box;
 }
 
-/* Футер */
+
 footer {
   text-align: center;
   padding: 1.5rem;
